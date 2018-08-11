@@ -1,0 +1,23 @@
+{
+  "name": "mdx-presentation",
+  "version": "1.0.0",
+  "description": "agile mdx presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuhaiming/agile-mdx.git"
+  },
+  "keywords": [
+    "agile",
+    "mdx"
+  ],
+  "author": "Haiming Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuhaiming/agile-mdx/issues"
+  },
+  "homepage": "https://github.com/xuhaiming/agile-mdx#readme"
+}
