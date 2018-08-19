@@ -1,11 +1,13 @@
 # agile-mdx
 Agile presentation using MDX deck
 
-# Agile software development
+---
+
+## Agile software development
 
 ---
 
-# Concept
+## Concept
 
 Agile software development describes an approach to **software development** under which requirements and solutions evolve through the collaborative effort of **self-organizing** and **cross-functional** teams and their **customer(s)/end user(s)**.
 
@@ -13,7 +15,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# Overview
+## Overview
 
 - Iterative, incremental and evolutionary
 - Efficient and face-to-face communication
@@ -22,7 +24,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# Philosophy
+## Philosophy
 
 - Adaptive vs Predictive
 - Iterative vs Waterfall
@@ -30,7 +32,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# The Manifesto
+## The Manifesto
 
 - **Individuals and Interactions** over processes and tools
 - **Working Software** over comprehensive documentation
@@ -39,7 +41,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# Principles
+## Principles
 
 1. Customer satisfaction by early and continuous delivery of valuable software
 2. Welcome changing requirements, even in late development
@@ -56,7 +58,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# Agile software development methods
+## Agile software development methods
 
 - Adaptive software development (ASD)
 - Agile modeling
@@ -73,7 +75,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 ---
 
-# Scrum
+## Scrum
 
 Scrum is an **iterative** and **incremental** framework for managing product development.
 
@@ -85,7 +87,7 @@ Scrum adopts an evidence-based empirical approach—accepting that the problem c
 
 ---
 
-# Roles
+## Roles
 
 ### Product owner
 The Product Owner is expected to do the best possible job of satisfying all stakeholders, maintain the Product Backlog, and ensure that everyone knows the priorities.
@@ -98,13 +100,13 @@ Development Teams are structured and empowered to organize and manage their own 
 
 ---
 
-# Sprint
+## Sprint
 
 A sprint (or iteration) is the basic unit of development in Scrum. The sprint is a timeboxed effort; that is, it is **restricted to a specific duration**. The duration is fixed in advance for each sprint and is normally **between one week and one month**, with two weeks being the most common.
 
 ---
 
-# Sprint planning
+## Sprint planning
 
 - Mutually discuss and agree on the scope of work that is intended to be done during that sprint
 - Select **product backlog** items that can be completed in one sprint
@@ -114,19 +116,19 @@ A sprint (or iteration) is the basic unit of development in Scrum. The sprint is
 
 ---
 
-# Backlog
+## Backlog
 
 ![scrum](backlog.png)
 
 ---
 
-# User story
+## User story
 
 A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the **type of user**, **what they want** and **why**. A user story helps to create a simplified description of a requirement.
 
 ---
 
-# User story format
+## User story format
 
 As a **ROLE**, I want **FEATURE** so that **REASON**.
 
@@ -137,7 +139,7 @@ As a **ROLE**, I want **FEATURE** so that **REASON**.
 
 ---
 
-# Story points
+## Story points
 
 A story point is an abstract measure of effort required to implement a user story. In simple terms, it is a number that tells the team about the difficulty level of the story. Difficulty could be related to **complexities**, **risks**, and **efforts involved**.
 
@@ -149,7 +151,7 @@ A story point is an abstract measure of effort required to implement a user stor
 
 ---
 
-# Story points vs. hours
+## Story points vs. hours
 
 - Dates don’t account for the **non-project related work** that inevitably creeps into our days: emails, meetings, and interviews that a team member may be involved in.
 - Dates have an **emotional attachment** to them. Relative estimation removes the emotional attachment.
@@ -159,7 +161,7 @@ A story point is an abstract measure of effort required to implement a user stor
 
 ---
 
-# Sprint planning process
+## Sprint planning process
 
 - During the first half, the whole scrum team (development team, scrum master, and product owner) selects the product backlog items they believe **could be completed** in that sprint
 - During the second half, the development team **identifies the detailed work (tasks)** required to complete those product backlog items; resulting in a confirmed sprint backlog
@@ -167,7 +169,7 @@ A story point is an abstract measure of effort required to implement a user stor
 
 ---
 
-# Daily Scrum
+## Daily Scrum
 
 - Starts **precisely on time** even if some development team members are missing
 - Should happen **at the same time and place every day**
@@ -175,7 +177,7 @@ A story point is an abstract measure of effort required to implement a user stor
 
 ---
 
-# Stand-up questions
+## Stand-up questions
 
 - What did I complete yesterday that contributed to the team meeting our sprint goal?
 - What do I plan to complete today to contribute to the team meeting our sprint goal?
@@ -189,7 +191,7 @@ Any impediment (e.g., stumbling block, risk, issue, delayed dependency, assumpti
 
 ---
 
-# Sprint review
+## Sprint review
 
 - Reviews the work that was completed and the planned work that was not completed
 - Presents the **completed** work to the stakeholders (a.k.a. the demo)
@@ -197,7 +199,7 @@ Any impediment (e.g., stumbling block, risk, issue, delayed dependency, assumpti
 
 ---
 
-# Sprint retrospective
+## Sprint retrospective
 
 - Reflects on the past sprint
 - Identifies and agrees on continuous process improvement actions
@@ -210,13 +212,13 @@ Any impediment (e.g., stumbling block, risk, issue, delayed dependency, assumpti
 
 ---
 
-# Extreme programming (XP)
+## Extreme programming (XP)
 
 Extreme programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements.
 
 ---
 
-# Elements
+## Elements
 
 - Short development cycles
 - Programming in pairs
@@ -229,13 +231,13 @@ Extreme programming (XP) is a software development methodology which is intended
 
 ---
 
-# Idea
+## Idea
 
 The methodology takes its name from the idea that the beneficial elements of traditional software engineering practices are taken to "extreme" levels. As an example, code reviews are considered a beneficial practice; taken to the extreme, code can be reviewed continuously, i.e. the practice of pair programming.
 
 ---
 
-# Practices
+## Practices
 
 ### Fine-scale feedback
 
@@ -259,7 +261,7 @@ The methodology takes its name from the idea that the beneficial elements of tra
 
 ---
 
-# Practices
+## Practices
 
 ### Programmer welfare
 
@@ -282,7 +284,7 @@ The methodology takes its name from the idea that the beneficial elements of tra
 
 ---
 
-# Coding
+## Coding
 
 The advocates of XP argue that **the only truly important product** of the system development process is **code** – software instructions that a computer can interpret. Without code, there is no working product.
 
@@ -290,7 +292,7 @@ Coding can also be used to figure out the most suitable solution. Coding can als
 
 ---
 
-# Simple design
+## Simple design
 
 Programmers should take a "simple is best" approach to software design. Whenever a new piece of code is written, the author should ask themselves 'is there a simpler way to introduce the same functionality?'. If the answer is yes, the simpler course should be chosen. **Refactoring** should also be used, to make complex code simpler.
 
@@ -298,7 +300,7 @@ Good design will avoid lots of dependencies within a system; this means that cha
 
 ---
 
-# Testing
+## Testing
 
 - Unit tests determine whether a given feature works as intended.
 - Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
@@ -307,7 +309,7 @@ System-wide integration testing has been reduced, to weekly, or less often, depe
 
 ---
 
-# Test driven development
+## Test driven development
 
 1. Write unit test
 2. Watch the new test fail
@@ -317,13 +319,13 @@ System-wide integration testing has been reduced, to weekly, or less often, depe
 
 ---
 
-# Listening
+## Listening
 
 Programmers must listen to what the customers need the system to do, what **business logic** is needed. Communication between the customer and programmer is further addressed in the **planning game**.
 
 ---
 
-# Values
+## Values
 
 - Communication
 - Simplicity
