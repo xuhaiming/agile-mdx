@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "mdx-deck presentation.mdx",
-    "build": "mdx-deck build presentation.mdx"
+    "build": "mdx-deck build presentation.mdx",
+    "export": "mdx-deck pdf presentation.mdx",
+    "screenshot": "mdx-deck screenshot presentation.mdx"
   },
   "repository": {
     "type": "git",
