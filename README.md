@@ -49,6 +49,11 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 4. Close, daily cooperation between business people and developers
 5. Projects are built around motivated individuals, who should be trusted
 6. Face-to-face conversation is the best form of communication (co-location)
+
+---
+
+## Principles
+
 7. Working software is the primary measure of progress
 8. Sustainable development, able to maintain a constant pace
 9. Continuous attention to technical excellence and good design
@@ -79,7 +84,7 @@ It advocates adaptive planning, evolutionary development, early delivery, and co
 
 Scrum is an **iterative** and **incremental** framework for managing product development.
 
-Scrum adopts an evidence-based empirical approach—accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions.
+Focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions.
 
 ---
 
@@ -90,13 +95,13 @@ Scrum adopts an evidence-based empirical approach—accepting that the problem c
 ## Roles
 
 ### Product owner
-The Product Owner is expected to do the best possible job of satisfying all stakeholders, maintain the Product Backlog, and ensure that everyone knows the priorities.
+Satisfying all stakeholders, maintain the Product Backlog, and ensure that everyone knows the **priorities**.
 
 ### Scrum master
-The Scrum Master helps the Scrum Team perform at their highest level. They also **protect the team from both internal and external distractions**.
+Protect the team from both **internal and external distractions**.
 
 ### Development team
-Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.
+Development Teams are structured and empowered to organize and manage their own work.
 
 ---
 
@@ -141,7 +146,7 @@ As a **ROLE**, I want **FEATURE** so that **REASON**.
 
 ## Story points
 
-A story point is an abstract measure of effort required to implement a user story. In simple terms, it is a number that tells the team about the difficulty level of the story. Difficulty could be related to **complexities**, **risks**, and **efforts involved**.
+A story point is an abstract measure of effort required to implement a user story. Difficulty could be related to **complexities**, **risks**, and **efforts involved**.
 
 ### Scales for sizing
 
@@ -154,8 +159,6 @@ A story point is an abstract measure of effort required to implement a user stor
 ## Story points vs. hours
 
 - Dates don’t account for the **non-project related work** that inevitably creeps into our days: emails, meetings, and interviews that a team member may be involved in.
-- Dates have an **emotional attachment** to them. Relative estimation removes the emotional attachment.
-- Each team will estimate work on a slightly different scale, which means their **velocity** (measured in points) will naturally be different. This, in turn, makes it impossible to play politics using velocity as a weapon.
 - Once you agree on the relative effort of each **story point value**, you can assign points quickly without much debate.
 - Story points reward team members for solving problems **based on difficulty, not time spent**. This keeps team members **focused on shipping value, not spending time**.
 
@@ -183,11 +186,15 @@ A story point is an abstract measure of effort required to implement a user stor
 - What do I plan to complete today to contribute to the team meeting our sprint goal?
 - **Do I see any impediment that could prevent me or the team from meeting our sprint goal?**
 
-Any impediment (e.g., stumbling block, risk, issue, delayed dependency, assumption proved unfounded) identified in the daily scrum should be captured by the **scrum master** and displayed on the team's scrum board or on a shared risk board, with an agreed person **designated to working toward a resolution** (outside of the daily scrum). No detailed discussions should happen during the daily scrum.
+---
+
+## Stand-up questions
+
+Any impediment (e.g., stumbling block, risk, issue, delayed dependency, assumption proved unfounded) identified in the daily scrum should be captured by the **scrum master** and displayed on the team's scrum board or on a shared risk board, with an agreed person **designated to working toward a resolution** (outside of the daily scrum). **No detailed discussions** should happen during the daily scrum.
 
 ---
 
-![scrum](kanban.png)
+![scrum](board.png)
 
 ---
 
