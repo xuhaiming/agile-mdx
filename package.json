@@ -25,5 +25,8 @@
   "homepage": "https://github.com/xuhaiming/agile-mdx#readme",
   "devDependencies": {
     "mdx-deck": "^1.5.14"
+  },
+  "dependencies": {
+    "@mdx-deck/themes": "^3.0.8"
   }
 }
